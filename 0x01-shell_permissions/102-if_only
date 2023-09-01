@@ -1,2 +1,2 @@
 #!/bin/bash
-if <$u ==guillaume> then <chown betty hello> fi
+if <utest hello ==guillaume> then <chown betty hello> fi
